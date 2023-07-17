@@ -1,1 +1,4 @@
-# woxsen_foodmart_system
+to starting website
+npm i  & 
+
+npm run dev
